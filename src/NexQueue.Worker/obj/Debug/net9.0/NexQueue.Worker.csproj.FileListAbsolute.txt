@@ -1,0 +1,15 @@
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/bin/Debug/net9.0/NexQueue.Worker.deps.json
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/bin/Debug/net9.0/NexQueue.Worker.dll
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/bin/Debug/net9.0/NexQueue.Worker.pdb
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/bin/Debug/net9.0/NexQueue.Core.dll
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/bin/Debug/net9.0/NexQueue.Core.pdb
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/obj/Debug/net9.0/NexQueue.Worker.csproj.AssemblyReference.cache
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/obj/Debug/net9.0/NexQueue.Worker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/obj/Debug/net9.0/NexQueue.Worker.AssemblyInfoInputs.cache
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/obj/Debug/net9.0/NexQueue.Worker.AssemblyInfo.cs
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/obj/Debug/net9.0/NexQueue.Worker.csproj.CoreCompileInputs.cache
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/obj/Debug/net9.0/NexQueue.F3712CBD.Up2Date
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/obj/Debug/net9.0/NexQueue.Worker.dll
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/obj/Debug/net9.0/refint/NexQueue.Worker.dll
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/obj/Debug/net9.0/NexQueue.Worker.pdb
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Worker/obj/Debug/net9.0/ref/NexQueue.Worker.dll

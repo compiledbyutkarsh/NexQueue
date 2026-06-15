@@ -1,0 +1,15 @@
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/obj/Debug/net9.0/NexQueue.Broker.csproj.AssemblyReference.cache
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/obj/Debug/net9.0/NexQueue.Broker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/obj/Debug/net9.0/NexQueue.Broker.AssemblyInfoInputs.cache
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/obj/Debug/net9.0/NexQueue.Broker.AssemblyInfo.cs
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/obj/Debug/net9.0/NexQueue.Broker.csproj.CoreCompileInputs.cache
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/bin/Debug/net9.0/NexQueue.Broker.deps.json
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/bin/Debug/net9.0/NexQueue.Broker.dll
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/bin/Debug/net9.0/NexQueue.Broker.pdb
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/bin/Debug/net9.0/NexQueue.Core.dll
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/bin/Debug/net9.0/NexQueue.Core.pdb
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/obj/Debug/net9.0/NexQueue.8A5645AE.Up2Date
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/obj/Debug/net9.0/NexQueue.Broker.dll
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/obj/Debug/net9.0/refint/NexQueue.Broker.dll
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/obj/Debug/net9.0/NexQueue.Broker.pdb
+/Users/utkarshsachan1/Documents/Projects/NexQueue/src/NexQueue.Broker/obj/Debug/net9.0/ref/NexQueue.Broker.dll
